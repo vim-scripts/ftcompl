@@ -1,0 +1,14 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=5187
+
+https://github.com/manicmaniac/ftcompl
+
+ftcompl supports selecting filetype.
+
+Instead of ":set filetype", you can use ":SetFileType"
+
+	:SetFileType vim
+
+You can use short hands in this way.
+
+	:sft<Space>vim  => :SetFileType vim
+	:setf<Space>vim => :SetFileType vim
